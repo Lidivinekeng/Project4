@@ -5,7 +5,7 @@ https://public.tableau.com/app/profile/lidivine.kengne/viz/CoreProject4withTable
 
 
 
-![image](https://github.com/Lidivinekeng/project4/assets/138332854/6abbcf26-7f7e-4067-ae28-e1330bf75db5)
+![image](github.com/Lidivinekeng/project4/blob/main/README.md](https://github.com/Lidivinekeng/project4/blob/main/Dashboard%201.png)))
 
 
 
